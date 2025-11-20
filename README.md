@@ -1,3 +1,21 @@
+# 💫 Hi 👋, I'm Siddharth Pandey
+**A passionate Data Analyst || Backend Engineer || Cloud Engineer....
+
+Email Me 👉 ✉️ **pandeysiddharth420@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Payment Based E-Learning Backend...
+- 🌱 **I’m currently learning:** Backend with Python and Cloud such as AWS...
+- 🤔 **I’m looking for help with:** Job
+- 💬 **Ask me about:** Collaboration, Tech Support.
+- 📫 **How to reach me:** pandeysiddharth420@gmail.com
+- 😄 **Pronouns:** Mr.Siddharth
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+- <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr__siddharth._) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sd0live) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeysiddharth420@gmail.com) 
